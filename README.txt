@@ -1,4 +1,4 @@
-Open flappy_V1.exe - Shortcut
+Open flappy_V1.exe is dist folder
 Mario 3 in a Flappy-Birds universe. Uses the pygame module.
 Pipes are obstacles in a scrolling 2D platform style.
 Keyboard "a" and "d" forward and reverse. Space bar and Mouse clicks fly.
